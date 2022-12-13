@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.170.237.226:9200"
+  username: "jiashuyu"
+  password: "Jiashuyu19960125!"
+
+gcs:
+  bucket: "shuyu-around-bucket"
+
+token:
+  secret: "secret"
